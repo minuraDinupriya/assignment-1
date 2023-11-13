@@ -1,0 +1,45 @@
+
+.left{
+    padding-left: 10%;
+    padding-right: 10%;
+    display: inline-block;
+    width: 35%;
+}
+
+.pic3{
+    width: 450px;
+    height: 595px;
+}
+#pic{
+    width: 528px;
+    height: 450px;
+}
+.center-text{
+    text-align: center;
+}
+#redbox{
+    background-color: red;
+    height: 5px;
+    width: 5px;
+    margin: 0px;
+}
+#bluebox{
+    background-color: blue;
+    height: 5px;
+    width: 5px;
+    margin: 0px;
+}
+.blue{
+    color: blue;
+    padding-left: 40%;
+}
+#blue{
+    padding-top: 0px;
+    color: blue;
+}
+.right{
+    display: inline-block;
+    width: 40%;
+    background-color: grey;
+    margin-top: 20px;
+}
